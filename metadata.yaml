@@ -1,0 +1,54 @@
+_repo: Mutual-Aid--A-Factor-of-Evolution_4341
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kropotkin, Petr Alekseevich, kniaz
+    aliases:
+    - Kropotkin, P. A.
+    - Кропоткин, Пётр Алексеевич
+    birthdate: 1842
+    deathdate: 1921
+    gutenberg_agent_id: '1453'
+    url: http://www.gutenberg.org/2009/agents/1453
+    wikipedia: http://en.wikipedia.org/wiki/Peter_Kropotkin
+description: "Mutual Aid: A Factor of Evolution is a book by Peter Kropotkin on the\
+  \ subject of mutual aid, written while he was living in exile in England. It was\
+  \ first published by William Heinemann in London in October 1902. The individual\
+  \ chapters had originally been published in 1890–96 as a series of essays in the\
+  \ British monthly literary magazine, Nineteenth Century.\nWritten partly in response\
+  \ to social Darwinism and in particular to Thomas H. Huxley's Nineteenth Century\
+  \ essay, \"The Struggle for Existence\", Kropotkin's book drew on his experiences\
+  \ in scientific expeditions in Siberia to illustrate the phenomenon of cooperation.\
+  \ After examining the evidence of cooperation in nonhuman animals, in pre-feudal\
+  \ societies and medieval cities, and in modern times, he concluded that cooperation\
+  \ and mutual aid are the most important factors in the evolution of species and\
+  \ the ability to survive.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Anarchism
+gutenberg_issued: '2003-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4341'
+  wikidata: Q1498315
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social institutions'
+- !lcsh 'Cooperation'
+- !lcsh 'Social groups'
+- !lcc 'HM'
+- GITenberg
+title: 'Mutual Aid: A Factor of Evolution'
+url: http://www.gutenberg.org/ebooks/4341
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Entraide,_un_facteur_de_l%27%C3%A9volution
+- https://pt.wikipedia.org/wiki/Mutualismo:_Um_Fator_de_Evolu%C3%A7%C3%A3o
+- https://de.wikipedia.org/wiki/Gegenseitige_Hilfe_in_der_Tier-_und_Menschenwelt
+- https://ru.wikisource.org/wiki/%D0%92%D0%B7%D0%B0%D0%B8%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BF%D0%BE%D0%BC%D0%BE%D1%89%D1%8C_%D0%BA%D0%B0%D0%BA_%D1%84%D0%B0%D0%BA%D1%82%D0%BE%D1%80_%D1%8D%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D0%B8_(%D0%9A%D1%80%D0%BE%D0%BF%D0%BE%D1%82%D0%BA%D0%B8%D0%BD_1907)
+- https://eo.wikipedia.org/wiki/Interhelpo_(verko)
+- https://es.wikipedia.org/wiki/El_apoyo_mutuo
+- https://en.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
+- https://ca.wikipedia.org/wiki/L%27ajuda_m%C3%BAtua:_un_factor_en_l%27evoluci%C3%B3
+- https://gl.wikipedia.org/wiki/Mutual_Aid:_A_Factor_of_Evolution
+- https://tr.wikipedia.org/wiki/Kar%C5%9F%C4%B1l%C4%B1kl%C4%B1_Yard%C4%B1mla%C5%9Fma_(kitap)
